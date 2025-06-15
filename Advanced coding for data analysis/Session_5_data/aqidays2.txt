@@ -1,0 +1,4 @@
+color,days
+Green,320
+Yellow,30
+Orange,15

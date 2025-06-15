@@ -1,0 +1,7 @@
+color,days
+Green,320
+Yellow,30
+Orange,15
+Red,0
+Purple,0
+Maroon,0

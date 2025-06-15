@@ -1,0 +1,7 @@
+color,concern,low,high
+Green,Good,0,50
+Yellow,Moderate,51,100
+Orange,Unhealthy for Sensitive Groups,101,150
+Red,Unhealthy,151,200
+Purple,Very Unhealthy,201,300
+Maroon,Hazardous,301,999
